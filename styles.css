@@ -344,8 +344,21 @@ body {
   height: 100vh;
 }
 
+header.main {
+  background-color: #293352;
+  color: #fff;
+}
+
 main.main {
-  
+  background-color: #fff;
+}
+
+aside.main {
+  background-color: #E5E6E7;
+}
+
+footer.main {
+  background-color: #222;
 }
 
 @media (min-width: 768px) {
